@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: Welcome to my homepage!
 avatar: "profile.jpg"
 description: Feel free to contact me
+social-network-links:
+  email: "adrian.calavie06@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: adriancalavie
+  twitter: AdiCalavie
+  linkedin: adrian-calavie
