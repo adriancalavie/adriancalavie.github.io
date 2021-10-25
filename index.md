@@ -1,5 +1,5 @@
 # Adrian Călăvie
-<img src="/profile.png" alt="banner" align="center" />
+
 Drajna de Jos, Prahova, Romania
 
 ## Summary
