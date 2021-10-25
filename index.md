@@ -2,7 +2,8 @@
 
 Drajna de Jos, Prahova, Romania
 
-![github stats](https://github-readme-stats.vercel.app/api?username=adriancalavie)
+![github stats](https://github-readme-stats.vercel.app/api?username=adriancalavie&hide=prs&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancalavie&count_private=true&layout=compact)](https://github.com/adriancalavie/github-readme-stats)
 
 
 ## Summary
