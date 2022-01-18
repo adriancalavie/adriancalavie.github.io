@@ -78,7 +78,7 @@ content:
         quote: >
           Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
         description: | # this will include new lines to allow paragraphs
-          Here I took courses about Algorithms, Data Structures, Web, Android, Cloud and Programming Paradigms. I learned C, C++, C#, Java, Kotlin, Python. 
+          Here I took courses about Algorithms, Data Structures, Web, Android, Cloud and Programming Paradigms. Some languages I've learned are C, C++, C#, Java, Kotlin and Python. 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -107,7 +107,7 @@ content:
         quote: >
           This project helped me learn more about data plotting and QT.
         description: | # this will include new lines to allow paragraphs
-          A plotting project made with Qt and QCustomPlot. The scope of the app is to generate graphs for various functions and to observe the steps taken by the algorithm in order to
+          A plotting project made with Qt and QCustomPlot. The purpose of the app is to generate graphs for various functions and to observe the steps taken by the algorithm in order to
           obtain the correct plotting.
       - layout: left
         title: 🇱🇺 Luxembourg map traversal
