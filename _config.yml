@@ -1,116 +1,149 @@
+# Adapted from https://github.com/sproogen/modern-resume-theme/
+
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
-
+name: Adrian Călăvie
+title: Intern
+email: adrian.calavie06@gmail.com
+phone: +40749855236
+phone_title: Phone number
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+linkedin_username: adrian-calavie
+github_username: adriancalavie
+about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+ I am a student at Transilvania Univeristy of Brașov. I am interested in algorithms, data structures and AI. You can see some of my past projects on my github profile. I am currently residing in Brașov.
+ 
+ My top skills are:
+ * Algorithms
+ * Data Structures
+ * OOP
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+ I am most proficient in:  
+ * C++
+ * Python
+ * Kotlin
+ 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Siemens Digital Industries Software
+        link: sw.siemens.com
+        link_text: siemens.com
+        sub_title: Intern
+        caption: October 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            Working on my bachelor's degree. The areas of R&D are DSP, concurrency and real-time changes.
+      - layout: left
+        title: Siemens Digital Industries Software
+        link: sw.siemens.com
+        link_text: siemens.com
+        sub_title: Apprentice
+        caption: July 2021 - September 2021
+        description: | # this will include new lines to allow paragraphs
+            I was an apprentice during the Curious Minds Summer School. I took courses on modern C++ and worked on a C# project.
+      - layout: left
+        title: General Magic
+        link: generalmagic.com
+        sub_title: Apprentice
+        caption: March 2021 - May 2021
+        description: | # this will include new lines to allow paragraphs
+            Took a course named 'Neural Networks in your Hands: Tensorflow on a Mobile'. I learned the basics of AI, ML and NN.
+      - layout: left
+        title: Endava
+        link: endava.com
+        sub_title: Apprentice
+        caption: September 2020 - December 2020
+        description: | # this will include new lines to allow paragraphs
+            Took a course named 'Developing a Web App'. I learned about web apps and versioning systems.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Transilvania University of Brasov
+        caption: 2019 - 2022
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Here I took courses about Algorithms, Data Structures, Web, Android, Cloud and Programming Paradigms. I learned C, C++, C#, Java, Kotlin, Python. 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 🧩 Mosaic++
+        link: github.com/adriancalavie/Mosaic-plus-plus
+        additional_links:
+          - title:  adriancalavie/Mosaic-plus-plus
+            icon: fab fa-github
+            url: github.com/adriancalavie/Mosaic-plus-plus
+        quote: >
+          This is my first 'big' project. I cooperated with other two colleagues on making this Modern C++ app.
+        description: | # this will include new lines to allow paragraphs
+         Mosaic++ is a tool that produces [photomosaics](https://en.wikipedia.org/wiki/Photographic_mosaic). It offers a range of options that have an effect on the final result. It can be 
+         used for entertainment purposes or be converted to an applicable tool in fields like image processing or mesh generation.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+      - layout: left
+        title: 📈 Plotting Project
+        link: github.com/Florin9925/Plotting-
+        additional_links:
+          - title: Plotting Project
+            icon: fab fa-github
+            url: github.com/Florin9925/Plotting-
+        quote: >
+          This project helped me learn more about data plotting and QT.
+        description: | # this will include new lines to allow paragraphs
+          A plotting project made with Qt and QCustomPlot. The scope of the app is to generate graphs for various functions and to observe the steps taken by the algorithm in order to
+          obtain the correct plotting.
+      - layout: left
+        title: 🇱🇺 Luxembourg map traversal
+        link: github.com/adriancalavie/Luxembourg
+        additional_links:
+          - title: github.com/adriancalavie/Luxembourg
+            icon: fab fa-github
+            url: github.com/adriancalavie/Luxembourg
+        # quote: >
+        #   This project ...
+        description: | # this will include new lines to allow paragraphs         
+          One of the homeworks at a Graph Theory course I took required us to compute the shortest path between
+          two points on the map of Luxembourg. We were given the input data as a massive xml file consisting of
+          nodes and edges and our task was to translate the latitude and longitude values into pixels on the screen,
+          to plot them and let the user choose two points on the map, the points to be chosen would be the closest to
+          where the mouse clicks. The homework also requested we implement both Dijkstra's and Bellam-Ford
+          algorithms.
+      - layout: left 
+        title: 🤖 AI puzzle solver
+        link: github.com/adriancalavie/AI-puzzle
+        additional_links:
+          - title: github.com/adriancalavie/AI-puzzle
+            icon: fab fa-github
+            url: github.com/adriancalavie/AI-puzzle
+        #  quote: >
+        #   This project 
+        description: | # this will include new lines to allow paragraphs
+          This C++ code from 2019 solves the x-puzzle problem. I wrote it in my first year at University.
+          The algorithm uses states to verify if the current current puzzle is in final form or not. It firstly checks if the
+          game is resolvable or not based on the information on this [site](http://kevingong.com/Math/SixteenPuzzle.html).
+          If it is solveable, it searches for the best move set(the one with the lowest number of moves that reaches a final state) using A*.
+ 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in computer science some of my other interests and hobbies are:
+      - Climbing
+      - Running
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
