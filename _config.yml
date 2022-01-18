@@ -74,7 +74,7 @@ content:
       - layout: left
         title: Transilvania University of Brasov
         caption: 2019 - 2022
-        sub_title: BSc Computer Science
+        sub_title: Bachelor's Degree, Computer Science
         quote: >
           Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
         description: | # this will include new lines to allow paragraphs
@@ -85,6 +85,7 @@ content:
       - layout: left
         title: 🧩 Mosaic++
         link: github.com/adriancalavie/Mosaic-plus-plus
+        link_text: GitHub repo
         additional_links:
           - title:  adriancalavie/Mosaic-plus-plus
             icon: fab fa-github
@@ -98,6 +99,7 @@ content:
       - layout: left
         title: 📈 Plotting Project
         link: github.com/Florin9925/Plotting-
+        link_text: GitHub repo
         additional_links:
           - title: Plotting Project
             icon: fab fa-github
@@ -110,6 +112,7 @@ content:
       - layout: left
         title: 🇱🇺 Luxembourg map traversal
         link: github.com/adriancalavie/Luxembourg
+        link_text: GitHub repo
         additional_links:
           - title: github.com/adriancalavie/Luxembourg
             icon: fab fa-github
@@ -126,6 +129,7 @@ content:
       - layout: left 
         title: 🤖 AI puzzle solver
         link: github.com/adriancalavie/AI-puzzle
+        link_text: GitHub repo
         additional_links:
           - title: github.com/adriancalavie/AI-puzzle
             icon: fab fa-github
