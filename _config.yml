@@ -21,7 +21,7 @@ linkedin_username: adrian-calavie
 github_username: adriancalavie
 about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a student at Transilvania Univeristy of Brașov. I am interested in algorithms, data structures and AI. You can see some of my past projects on my github profile. I am currently residing in Brașov.
+ I am a master's student at Transilvania Univeristy of Brașov. I am interested in algorithms, data structures and AI. You can see some of my past projects on my github profile.
  
  My top skills are:
  * Algorithms
@@ -31,8 +31,9 @@ about_content: | # this will include new lines to allow paragraphs
  I am most proficient in:  
  * C++
  * Python
- * Kotlin
- 
+ * C#
+
+In the past months, I've been dabbling with some Rust and Web Developement in my free time.  
 
 content:
   - title: Experience # Title for the section
@@ -42,8 +43,17 @@ content:
         title: Siemens Digital Industries Software
         link: sw.siemens.com
         link_text: siemens.com
+        sub_title: Software Engineer (Associate)
+        caption: April 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            Working on a MBSE desktop solution. The tech stack is C++, Qt and Python.
+    content:
+      - layout: left
+        title: Siemens Digital Industries Software
+        link: sw.siemens.com
+        link_text: siemens.com
         sub_title: Intern
-        caption: October 2021 - Present
+        caption: October 2021 - April 2022
         description: | # this will include new lines to allow paragraphs
             Working on my bachelor's degree. The areas of R&D are DSP, concurrency and real-time changes.
       - layout: left
@@ -71,6 +81,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: Transilvania University of Brasov
+        caption: 2022 - 2024
+        sub_title: Master's Degree, Internet Technologies
+        quote: >
+          Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
+        description: | # this will include new lines to allow paragraphs
+          Mainly focusing on web development and modern technologies, including AWS Cloud, Java Spring, IoT, and Networking.
       - layout: left
         title: Transilvania University of Brasov
         caption: 2019 - 2022
