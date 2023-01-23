@@ -32,7 +32,8 @@ about_content: | # this will include new lines to allow paragraphs
  * C++
  * Python
  * C#
-In the past months, I've been dabbling with some Rust and Web Developement in my free time.  
+ 
+ In the past months, I've been dabbling with some Rust and Web Developement in my free time.  
 
 content:
   - title: Experience # Title for the section
