@@ -81,13 +81,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: Transilvania University of Brasov
-          caption: 2022 - 2024
-          sub_title: Master's Degree, Internet Technologies
-          quote: >
-            Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
-          description: | # this will include new lines to allow paragraphs
-            Mainly focusing on web development and modern technologies, including AWS Cloud, Java Spring, IoT, and Networking.
+        title: Transilvania University of Brasov
+        caption: 2022 - 2024
+        sub_title: Master's Degree, Internet Technologies
+        quote: >
+          Transilvania University of Brasov is a public institution of higher education in Braşov, Romania, which through the education it offers, through scientific research and by the number of students represents one of the major universities of Romania.  
+        description: | # this will include new lines to allow paragraphs
+          Mainly focusing on web development and modern technologies, including AWS Cloud, Java Spring, IoT, and Networking.
       - layout: left
         title: Transilvania University of Brasov
         caption: 2019 - 2022
