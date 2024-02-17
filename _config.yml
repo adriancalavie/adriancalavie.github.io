@@ -46,7 +46,8 @@ content:
         sub_title: Software Engineer (Associate)
         caption: April 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Working on a MBSE desktop solution. The tech stack is C++, Qt and Python.
+            Currently working on a custom Jupyter MBSE solution leveraging React, Typescript and Python.
+            Previously worked on a desktop MBSE Solution using C++, Qt & Python.
       - layout: left
         title: Siemens Digital Industries Software
         link: sw.siemens.com
